@@ -2,7 +2,7 @@ Helpful links
 -------------
 * [Jetstream](https://use.jetstream-cloud.org/application/)
 * [Jetstream project page](https://www.jetstream-cloud.org/)
-* Jetstream knowledge base
+* [Jetstream Wiki](https://iujetstream.atlassian.net/wiki/display/JWT/Jetsream+Public+Wiki)
 * [XSEDE User Portal](https://portal.xsede.org/)
 * [TACC User Portal](https://portal.tacc.utexas.edu/)
 * [VNC Viewer](https://www.realvnc.com/download/viewer/)
